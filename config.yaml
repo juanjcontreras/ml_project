@@ -8,9 +8,11 @@
 
 input_data:
   file: "../data/raw/raw_data_file.csv"
+  mushrooms: "../data/raw/..."
 
 output_data:
   file: "../data/clean/cleaned_data_file.csv"
+  mushrooms_cleaned: "../data/clean/..."
 
 models:
   best_pipeline: "../models/best_pipeline.joblib"
