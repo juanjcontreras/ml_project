@@ -66,9 +66,3 @@ Desktop.ini
 # --------------------------------------------------
 # Add additional patterns here when necessary.
 # Do not exclude all CSV, notebook or presentation files.
-
-.virtual_documents/
-data/raw/*.csv
-
-notebooks/evironment_setup.ipynb
-
